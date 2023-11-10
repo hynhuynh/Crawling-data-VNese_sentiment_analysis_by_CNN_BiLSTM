@@ -14,7 +14,7 @@ to learn and extract features from text. CNN is good at capturing local patterns
 - Model Evaluation: Evaluate the accuracy and performance of sentiment analysis approaches by precision, recall and f1-score.
 - Utilize Model: Apply for new dataset to predict sentiments for customer reviews dataset from Tiki.
 ## 4. Result:
-# 4.1. Model Evaluation:
+### 4.1. Model Evaluation:
 **Confusion matrix and classification report:**
 
 ![image](https://github.com/hynhuynh/Crawling-data-and-Vietnamese_sentiment_analysis_by_CNN_and_Bi_LSTM/assets/74954965/f12eb096-9b79-4a58-9e93-3e60a74403e5)
@@ -31,6 +31,6 @@ Class 1 (Negative Class):
 Accuracy: Overall accuracy of the model: 0.87 (87% of instances are correctly classified).
 
 **==> The model performs well in distinguishing both positive and negative comments. The high precision and recall values indicate a good balance between identifying positive and negative instances.**
-# 4.2. Utilize Model:
+### 4.2. Utilize Model:
 
 ![image](https://github.com/hynhuynh/Crawling-data-and-Vietnamese_sentiment_analysis_by_CNN_and_Bi_LSTM/assets/74954965/36dcd465-15dc-4481-9300-fb846650e34f)
