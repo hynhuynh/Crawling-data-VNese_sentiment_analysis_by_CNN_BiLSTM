@@ -12,7 +12,7 @@ to learn and extract features from text. CNN is good at capturing local patterns
 - Model Building: Create a sentiment analysis model using a combination of CNN and Bi-LSTM layers to capture complex patterns and dependencies in the text data.
 - Model Training: Train the deep learning model on the preprocessed dataset with EarlyStopping and ReduceLROnPlateau to prevent overfitting.
 - Model Evaluation: Evaluate the accuracy and performance of sentiment analysis approaches by precision, recall and f1-score.
-- Utilize Model: Apply for new dataset to predict sentiments for customer reviews dataset from Tiki.
+- Utilize Model: Apply for new dataset to predict sentiments for customer reviews from Tiki.
 ## 4. Result:
 ### 4.1. Model Evaluation:
 **Confusion matrix and classification report:**
