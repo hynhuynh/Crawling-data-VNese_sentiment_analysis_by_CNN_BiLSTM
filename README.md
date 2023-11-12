@@ -1,4 +1,4 @@
-# Vietnamese_sentiment_analysis_by-CNN_and_Bi_LSTM_vs_Underthesea
+# Crawling data and Vietnamese sentiment analysis by CNN and LSTM
 ## 1. Goal:
 Developing an effective model for classifying the sentiment of Vietnamese text, specifically focusing on Vietnamese customer reviews related to lipstick products. The primary objective is to accurately determine whether a given review expresses positive or negative sentiment.
 ## 2. Method:
